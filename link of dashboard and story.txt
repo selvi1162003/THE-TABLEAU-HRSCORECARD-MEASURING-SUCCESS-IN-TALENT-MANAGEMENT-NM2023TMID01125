@@ -1,4 +1,4 @@
    DASHBOARD:                
-            https://public.tableau.com/app/profile/anbu.selvi/viz/dashboard1_16955351194070/story1?puplic-yes
+            https://public.tableau.com/app/profile/anbu.selvi/viz/dashboard1_16955351194070/story1?publish-yes
     STORY:
-          https://public.tableau.com/app/profile/anbu.selvi/viz/hrstoryanbu/story2?puplish=yes
+          https://public.tableau.com/app/profile/anbu.selvi/viz/hrstoryanbu/story2?publish=yes
